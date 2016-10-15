@@ -101,3 +101,4 @@ plot_shapes(df_map_park, ax)  # add parks to the plot
 ''' Draw the map '''
 m.drawmapboundary()
 plt.show()
+plt.savefig('seattle_map.png')
