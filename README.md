@@ -1,6 +1,6 @@
 ## Plot a map of Seattle in Python
 
-![Map of Seattle](seattle_map.png)
+![](seattle_map.png?raw=true)
 
 ##### This code plots shape files for the city of Seattle using Python's matplotlib and Basemap.  
 
